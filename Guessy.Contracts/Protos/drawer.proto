@@ -1,0 +1,13 @@
+﻿syntax = "proto3";
+
+package Guessy.Contracts.Proto.Drawer;
+
+import "google/protobuf/empty.proto";
+
+message GamePrepared {
+  repeated string questions = 1;
+}
+
+message TimeConfigChanged {
+  int32 round_time = 1;
+}

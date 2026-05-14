@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Guessy.Application/Guessy.Application.csproj" />
+  <Project Path="Guessy.Contracts/Guessy.Contracts.csproj" />
+  <Project Path="Guessy.Domain/Guessy.Domain.csproj" Id="8ebdc33d-58b5-4177-b894-2159e8c4e3a2" />
+  <Project Path="Guessy.Infrastructure/Guessy.Infrastructure.csproj" />
+  <Project Path="Guessy.Presentation/Guessy.Presentation.csproj" />
+</Solution>
